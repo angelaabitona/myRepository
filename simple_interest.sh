@@ -1,11 +1,11 @@
 #!/bin/bash
 
 #shell script to calculate simple interest
-
-ech "Enter the Principal amount: "
+hi
+echo "Enter the Principal amount: "
 read principal
 
-ech "Enter the Rate of interest: "
+echo "Enter the Rate of interest: "
 read roi
 
 echo "Enter the time: "
