@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #shell script to calculate simple interest
-
+hi
 echo "Enter the Principal amount: "
 read principal
 
